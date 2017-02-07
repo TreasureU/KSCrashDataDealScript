@@ -1,0 +1,2 @@
+# KSCrashDataDealScript
+使用Python脚本编写的定制化KSCrash崩溃文件的处理程序，配合 KSCrashDataManager使用更佳，可以使用GUI，不考虑脚本复杂的参数。
